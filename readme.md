@@ -1,5 +1,3 @@
-**UNFINISHED -> NOT WORKING**
-
 This is a Maven archetype to start with an a simple Angular 2 project 
 that is directly integrated into a Spring Boot Server.
 
