@@ -9,11 +9,12 @@ that is directly integrated into a Spring Boot Server.
 **Preconditions**
 * java (JDK) is installed
 * maven ist installed 
-* node.js and npm are installed
+* node.js is installed
 * git is installed (optional)
 
 **Usage**
 * Check out this project by calling 'git clone https://github.com/zebrajaeger/springboot-angular2ts-starter' 
+* Without git you can download a zip at https://github.com/zebrajaeger/springboot-angular2ts-starter/archive/master.zip
 
 There a two modes
 * Ever step starts with the following steps
