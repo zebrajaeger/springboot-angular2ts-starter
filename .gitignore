@@ -7,3 +7,6 @@
 *.launch
 .settings/
 
+
+#misc
+target
